@@ -1,4 +1,4 @@
-# topsos-Haymant
+
 
 topsis-python
 
@@ -10,9 +10,9 @@ The Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) i
 
 Installation
 
-Use the package manager pip to install topsos-Haymant.
+Use the package manager pip to install topsos-Dilpreet.
 
-pip install topsos-Haymant
+pip install topsos-Dilpreet
 Usage
 
 Following query on terminal will provide you the topsis analysis for input csv file.
